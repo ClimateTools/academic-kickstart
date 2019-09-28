@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include understanding hydroclimate variability in
-the past, present and future via modeling and statistical tools.
+bio: My research interests include understanding hydroclimate variability in the past, present and future via modeling and statistical tools.
 
 interests:
 - Climate dynamics
