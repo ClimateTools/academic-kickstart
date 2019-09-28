@@ -18,11 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include understanding hydroclimate variability in
+the past, present and future via modeling and statistical tools.
 
 interests:
-- Water isotope modeling
-- Tropical climate dynamics
+- Climate dynamics
+- Hydroclimate variability
+- Water isotope physics
 - Interpretation of paleohydrological records
 - Monsoon dynamics
 
@@ -71,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jun Hu is a postdoctoral research fellow at Rice University. His research focuses on the long-term hydroclimate variability in the past, present and future via modeling and statistical tools. His PhD work was on the better interpretation of Asian speleothem records. Now he is exploring using water isotopes to track the trends of tropical overturning circulations, including the Hadley Cell.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He is also interested in the role of land-air-sea interactions in regional climate variability.
