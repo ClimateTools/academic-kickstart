@@ -3,7 +3,7 @@
 
 title: "Novel usage of water isotopes"
 subtitle: "Track modern and future climate change"
-summary: ""
+summary: "Track modern and future climate change"
 authors: []
 tags: []
 categories: []
