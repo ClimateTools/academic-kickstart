@@ -2,14 +2,15 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Interpretations of Asian Speleothems"
-subtitle: ""
+subtitle: "Quantifying contributions of different atmospheric processes to
+Asian precipitation $\delta^{18}$O"
 summary: ""
 authors: []
 tags: []
 categories: []
 date: 2019-09-28T20:43:54-05:00
 lastmod: 2019-09-28T20:43:54-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
