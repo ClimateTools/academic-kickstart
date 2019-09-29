@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Earth System Science Data*"
-link:
+links:
   - name: Article Online
-  - url: 'https://www.earth-syst-sci-data.net/10/1687/2018/essd-10-1687-2018.html'
+    url: 'https://www.earth-syst-sci-data.net/10/1687/2018/essd-10-1687-2018.html'
 ---
