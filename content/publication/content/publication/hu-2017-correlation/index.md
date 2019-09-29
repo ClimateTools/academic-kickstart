@@ -7,5 +7,10 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Earth and Planetary Science Letters*"
+links:
+  - name: Article Online
+    url: 'https://www.sciencedirect.com/science/article/pii/S0012821X16306823'
+  - name: Code
+    url: 'https://github.com/ClimateTools/Correlation_EPSL'
 ---
 

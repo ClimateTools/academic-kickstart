@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Atmospheric and Oceanic Science Letters*"
+links:
+  - name: Article Online
+    url: 'https://www.tandfonline.com/doi/abs/10.3878/j.issn.1674-2834.13.0084'
 ---
 
