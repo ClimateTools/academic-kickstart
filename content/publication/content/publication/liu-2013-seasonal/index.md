@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Advances in Atmospheric Sciences*"
+links:
+  - name: Article Online
+    url: 'https://link.springer.com/article/10.1007/s00376-012-2154-0'
 ---
 

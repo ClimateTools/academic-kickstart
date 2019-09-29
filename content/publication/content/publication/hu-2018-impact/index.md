@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research: Atmospheres*"
+links:
+  - name: Article Online
+    url: 'https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JD029187'
 ---
 
