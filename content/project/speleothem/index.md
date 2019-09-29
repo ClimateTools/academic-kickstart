@@ -31,13 +31,13 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Asian speleothem d18O has been widely used to study paleo-hydroclimate
+Asian speleothem $\delta^{18}$O has been widely used to study paleo-hydroclimate
 variability due to its high dating precisions and fine temporal resolutions up
 to years. It was traditionally thought to represent the "monsoon intensity",
 however, recent studies have shown that it can be regulated by water vapor
 transport or the "upstream effect", with the related large-scale circulation
 variability. To understand the contribution of different processes controlling
-Asian speleothem d18O, we employ an isotope-enabled model iCESM and track life
+Asian speleothem $\delta^{18}$O, we employ an isotope-enabled model iCESM and track life
 cycles of water vapor originating from different regions. We found that at
 orbital scales, Asian speleothem d18O mainly reflects the meridional migration
 of the monsoon circulation, rather than regional precipitation amount. At
