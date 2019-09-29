@@ -4,21 +4,24 @@
 title: "Interpretations of Asian Speleothems"
 subtitle: "Quantifying contributions of atmospheric processes to
 Asian precipitation isotope ratios"
-summary: ""
-authors: []
+summary: "Quantifying contributions of atmospheric processes to
+Asian precipitation isotope ratios"
+authors: ["admin"]
 tags: []
 categories: []
 date: 2019-09-28T20:43:54-05:00
 lastmod: 2019-09-28T20:43:54-05:00
-featured: true
+featured: false
 draft: false
+markup: mmark
+math: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
