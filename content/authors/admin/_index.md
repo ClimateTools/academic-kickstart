@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Jun Hu is a postdoctoral research fellow at Rice University. His research focuses on the long-term hydroclimate variability in the past, present and future via modeling and statistical tools. His PhD work was on the better interpretation of Asian speleothem records. Now he is exploring using water isotopes from satellite data to constrain the climate feedback of low-level clouds.
+Jun Hu is a postdoctoral research fellow at Rice University. His research focuses on the long-term hydroclimate variability in the past, present and future via modeling and statistical tools. His PhD work was on the better interpretation of Asian speleothem records. Now he is exploring using water isotopes from satellite data to constrain the climate feedbacks of low-level clouds.
 
 He is also interested in the role of land-air-sea interactions in regional climate variability.
