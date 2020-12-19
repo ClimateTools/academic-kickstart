@@ -44,6 +44,6 @@ of the monsoon circulation, rather than regional precipitation amount. At
 interannual scales, Asian speleothem $\delta^{18}$O is mainly tied to a change in
 moisture source locations.
 
-Related Publications:
+Related Publication:
 
 Hu, J., J. Emile-Geay, C. Tabor, J. Nusbaumer, and J. Partin, 2019: Deciphering Chinese speleothems with an isotope-enabled climate model. Paleoceanography and Paleoclimatology, 34, 2098-2112, doi:https://doi.org/10.1029/2019PA003741 ([AGU Research Spotlight](https://eos.org/research-spotlights/how-to-read-atmospheric-history-written-in-flowstones))
