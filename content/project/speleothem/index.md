@@ -39,7 +39,11 @@ transport or the "upstream effect", with the related large-scale circulation
 variability. To understand the contribution of different processes controlling
 Asian speleothem $\delta^{18}$O, we employ an isotope-enabled model iCESM and track life
 cycles of water vapor originating from different regions. We found that at
-orbital scales, Asian speleothem d18O mainly reflects the meridional migration
+orbital scales, Asian speleothem $\delta^{18}$O mainly reflects the meridional migration
 of the monsoon circulation, rather than regional precipitation amount. At
-interannual scales, Asian speleothem d18O is mainly tied to a change in
+interannual scales, Asian speleothem $\delta^{18}$O is mainly tied to a change in
 moisture source locations.
+
+Related Publications:
+
+Hu, J., J. Emile-Geay, C. Tabor, J. Nusbaumer, and J. Partin, 2019: Deciphering Chinese speleothems with an isotope-enabled climate model. Paleoceanography and Paleoclimatology, 34, 2098-2112, doi:10.1029/2019PA003741. (AGU Research Spotlight)
