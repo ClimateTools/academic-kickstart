@@ -46,4 +46,4 @@ moisture source locations.
 
 Related Publications:
 
-Hu, J., J. Emile-Geay, C. Tabor, J. Nusbaumer, and J. Partin, 2019: Deciphering Chinese speleothems with an isotope-enabled climate model. Paleoceanography and Paleoclimatology, 34, 2098-2112, doi:10.1029/2019PA003741. (AGU Research Spotlight)
+Hu, J., J. Emile-Geay, C. Tabor, J. Nusbaumer, and J. Partin, 2019: Deciphering Chinese speleothems with an isotope-enabled climate model. Paleoceanography and Paleoclimatology, 34, 2098-2112, doi:\href{10.1029/2019PA003741}{https://doi.org/10.1029/2019PA003741}. (AGU Research Spotlight)
