@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Constraining low-cloud climate feedbacks"
-subtitle: "Contraining the equilibrium sensitivity"
-summary: "Contraining the equilibrium sensitivity"
+subtitle: "Contraining the equilibrium climate sensitivity"
+summary: "Contraining the equilibrium climate sensitivity"
 authors: []
 tags: []
 categories: []
