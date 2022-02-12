@@ -10,21 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Rice University
+- name: Xiamen University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include understanding hydroclimate variability in the past, present and future via modeling and statistical tools.
+bio: My research focuses on paleoclimate to better understand large-scale climate dynamics via modeling and statistical tools.
 
 interests:
+- Paleoclimate/Paleoceanography modeling and analysis
 - Climate dynamics
-- Hydroclimate variability
-- Water isotope physics
-- Interpretation of paleohydrological records
+- Stable water isotope physics
 - Monsoon dynamics
 
 education:
@@ -72,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Jun Hu is a postdoctoral research fellow at Rice University. His research focuses on the long-term hydroclimate variability in the past, present and future via modeling and statistical tools. His PhD work was on the better interpretation of Asian speleothem records. Now he is exploring using water isotopes from satellite data to constrain the climate feedbacks of low-level clouds.
-
-He is also interested in the role of land-air-sea interactions in regional climate variability.
+My research focuses on the long-term variability of the atmosphere-ocean system in the past. I am interested in understanding the mechanisms of the climate system, so we can better predict the future climate change. To fulfil this goal, I use climate models, synthesis of (paleo)climate data, and statistical analysis. My past work includes using speleothem data to understand the Asian climate variability at orbital to centennial scales, the interpretation of stable isotopic signals in speleothems and ice cores, and evaluating/improving water isotope-enabled climate models. I am also interested in the novel usage of stable water isotopes in modern climate (e.g., convective mixing of low clouds, large-scale organized convection).
